@@ -13,7 +13,7 @@ There were 4 different subsets of features that I ultimately did my modeling wor
 Ultimately, the gradient boosting model with ntrees = 1000, intreaction depth = 11, and shrinkage = 0.02 on the features identified via the hybrid stepwise selection method as well as the amenities count feature outputted the best results (i.e. lowest RMSE). Notably, I tried several different values for the parameters within the gbm function, and the aforementioned parameters gave me the best results. My final RMSE on the Kaggle private leaderboard ended up being 66.21363.
 
 
-![alt text](https://i.ibb.co/2nx3gn1/Screen-Shot-2021-03-13-at-8-33-01-AM.png)
+![alt text](https://github.com/ctahabee/Airbnb-rental-price-prediction-model/blob/main/table.png?raw=true)
 
 #### Discussion
 
